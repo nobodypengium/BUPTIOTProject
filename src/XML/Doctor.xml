@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root> 
+  <Doctor id="00000"> 
+    <name>Test Doctor</name>  
+    <epc>E2003016630D022817106523</epc> 
+  </Doctor>
+  <Doctor id="00001">
+    <name>Test Doctor2</name>
+    <epc>E2003016630D02261710651B</epc>
+  </Doctor> 
+</root>

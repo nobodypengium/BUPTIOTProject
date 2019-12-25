@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root> 
+  <Patient id="00000"> 
+    <name>New Patient</name>  
+    <epc>E2003016630D02541710658B</epc>  
+    <record/> 
+  </Patient>  
+  <Patient id="00002">
+    <name>New Patient2</name>  
+    <epc>E2003016630D0212171064E3</epc>  
+    <record>Record1~~~Record2~~~</record> 
+  </Patient> 
+</root>
